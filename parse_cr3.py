@@ -3,6 +3,7 @@
 # tested with Python 3.6.7
 # about ISO Base file format : https://stackoverflow.com/questions/29565068/mp4-file-format-specification
 # License is GPLv3 
+# added this line so can save to fork
 
 import sys
 from struct import unpack, Struct
